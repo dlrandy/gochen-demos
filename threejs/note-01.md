@@ -17,6 +17,7 @@ http://www.vill.ee/eye/
 在IE10以下使用webgl，可以使用WEBGL插件：IEWebGL：https://github.com/iewebgl/iewebgl
 
 除了本地的文本编辑器之外，官方提供了图形操作的编辑器：http://threejs.org/editor/
+3DE editor: https://www.code3dgames.com/3de/
 
 python -m SimpleHttpServer
 
